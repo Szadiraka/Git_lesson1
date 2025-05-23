@@ -2,3 +2,15 @@ h1 {
   text-align: center;
   color: #567510;
 }
+
+button {
+  background-color: lightblue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(108, 108, 238);
+}
